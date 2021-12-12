@@ -1,1 +1,1 @@
-nano a.out
+gcc main.c
