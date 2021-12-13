@@ -1,1 +1,1 @@
-rm enumerate_numbers
+rm guessing_game
