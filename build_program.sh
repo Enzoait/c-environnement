@@ -1,2 +1,2 @@
 gcc main.c
-mv a.out enumerate_numbers
+mv a.out guessing_game
